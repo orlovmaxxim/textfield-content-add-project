@@ -1,0 +1,12 @@
+.base-component {
+  padding: 10px;
+  background-color: #fdebdb;
+  color: #000;
+  cursor: pointer;
+  transition: all .5s cubic-bezier(.14, .82, .14, .82);
+}
+
+.base-component:hover {
+  background-color: #ff7360;
+  color: #fdebdb;
+}

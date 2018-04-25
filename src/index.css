@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+input,
+textarea {
+  line-height: 1.6;
+  background: #eee;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+p {
+  margin: 0;
+}
