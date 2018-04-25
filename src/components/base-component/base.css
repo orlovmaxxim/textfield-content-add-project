@@ -10,3 +10,10 @@
   background-color: #ff7360;
   color: #fdebdb;
 }
+
+/* FOR MOBILE */
+@media (max-width: 576px) {
+  .base-component {
+    padding: 5px;
+  }
+}
